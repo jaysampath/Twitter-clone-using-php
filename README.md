@@ -34,31 +34,31 @@ Cloned the basic functionality of the twitter using php and MySQL. The applicati
   
   <h3>Home Page ( before logging in) </h3>
 
-<img src = "twitter1.png" alt ="website-image">
+<img src = "images/twitter1.png" alt ="website-image">
 
 <h3>Your Time Line Page (After Logged in) </h3>
 
-<img src = "twitter2.png" alt ="website-image">
+<img src = "images/twitter2.png" alt ="website-image">
 
 <h3>Your Tweets Page </h3>
 
-<img src = "twitter3.png" alt ="website-image">
+<img src = "images/twitter3.png" alt ="website-image">
 
 <h3>Public profiles Page </h3>
 
-<img src = "twitter4.png" alt ="website-image">
+<img src = "images/twitter4.png" alt ="website-image">
 
 <h3>When a link on public profiles page clicked </h3>
 
-<img src = "twitter5.png" alt ="website-image">
+<img src = "images/twitter5.png" alt ="website-image">
 
 <h3>Search Tweets Result Page </h3>
 
-<img src = "twitter6.png" alt ="website-image">
+<img src = "images/twitter6.png" alt ="website-image">
 
 <h3>Post Tweet button </h3>
 
-<img src = "twitter7.png" alt ="website-image">
+<img src = "images/twitter7.png" alt ="website-image">
 
 
 
