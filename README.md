@@ -64,6 +64,6 @@ Cloned the basic functionality of the twitter using php and MySQL. The applicati
 
 <h2>In action </h2>
 
-<p> see this application in action <a href="http://jayasampathwebhosting-com.stackstaging.com/projects/query-page/">here </a></p>
+<p> see this application in action <a href="http://jayasampathwebhosting-com.stackstaging.com/projects/jays-twitter-clone/">here </a></p>
 
 
