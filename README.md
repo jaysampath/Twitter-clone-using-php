@@ -50,15 +50,15 @@ Cloned the basic functionality of the twitter using php and MySQL. The applicati
 
 <h3>When a link on public profiles page clicked </h3>
 
-<img src = "images/twitter5.png" alt ="website-image">
+<img src = "images/twitter7.png" alt ="website-image">
 
 <h3>Search Tweets Result Page </h3>
 
-<img src = "images/twitter6.png" alt ="website-image">
+<img src = "images/twitter5.png" alt ="website-image">
 
 <h3>Post Tweet button </h3>
 
-<img src = "images/twitter7.png" alt ="website-image">
+<img src = "images/twitter6.png" alt ="website-image">
 
 
 
