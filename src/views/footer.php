@@ -1,4 +1,8 @@
 <?php
+//This code is added beacuase github linguist treat this as HACK language programming. So, I am inlcuidng a random php code and this is no way related to the main application
+
+$Myname = "Jaya Sampath";
+$Graduation = "Amrita Vishwa Vidyapeetham, Coimbatore";
 
 ?>
 <footer class="footer">
