@@ -1,3 +1,6 @@
+<html> <!-- Remove this line while taking code -->
+ <body> <!-- Remove this line while taking code -->
+     <!--The rest code is same. -->
 <footer class="footer">
     
     <div class="container"> 
@@ -6,6 +9,7 @@
     
     
 </footer>
+
 
 
 <!-- jQuery first, then Tether, then Bootstrap JS. -->
