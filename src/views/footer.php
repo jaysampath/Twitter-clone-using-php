@@ -1,6 +1,6 @@
-<html> <!-- Remove this line while taking code -->
- <body> <!-- Remove this line while taking code -->
-     <!--The rest code is same. -->
+<?php
+
+?>
 <footer class="footer">
     
     <div class="container"> 
