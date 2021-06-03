@@ -5,7 +5,7 @@ Cloned the basic functionality of the twitter using php and MySQL. The applicati
 
 <ul>
   <li> Nav bar using bootstrap4 component  </li>
-  <li> Login/Signup validation in server side(php). While logging in checks for correct passoword. While signing in checks for existence of user  </li>
+  <li> Login/Signup validation in server side(php). While logging in checks for correct passoword. While signing up checks for the already existence of user  </li>
   <li> Passwords are stored using md5 hashing </li>
   <li> Nicely divided the php files. All functions are in functions.php file. after every click i.e., action are in actions.php. All script code is in footer.php. All 
           The nav bar and login/signup modal is in header.php. displaying tweets and search tweeets button are in home.php. styles are externally included from styles.css.  </li>
